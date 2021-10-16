@@ -8,6 +8,6 @@ Hospital Locations (CSV): https://www.healthcollect.vic.gov.au/HospitalLists/Mai
 Postcodes(CSV): https://www.matthewproctor.com/australian_postcodes
 
 
-Collaborators: mattcho1157
+Collaborators: mattcho1157, Neme51s, XinziLiu
 
 Dependencies: matplotlib, numpy, pandas, seaborn, json, math, sklearn.preprocessing, sklearn.cluster, pyproj, pyclustertend
