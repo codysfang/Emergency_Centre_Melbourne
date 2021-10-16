@@ -1,4 +1,4 @@
-# Optimal Location for Emergency Centres in Melbourne
+# Optimal Locations for Emergency Centres in Melbourne
 
 ### Datasets:
 
